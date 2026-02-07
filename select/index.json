@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "天誅 & Mercy",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-07T07:02:55.400341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天誅",
+      "artist": "Dragon Guardian",
+      "has_synced": false,
+      "path": "select/01_天誅_Dragon_Guardian.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天誅",
+      "artist": "CHTHONIC",
+      "has_synced": false,
+      "path": "select/02_天誅_CHTHONIC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天誅",
+      "artist": "ChthoniC",
+      "has_synced": true,
+      "path": "select/03_天誅_ChthoniC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tenchuu; 天誅",
+      "artist": "Kizu; キズ",
+      "has_synced": true,
+      "path": "select/04_Tenchuu;_天誅_Kizu;_キズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天誅 & Mercy (feat. 10-FEET)",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_天誅_&_Mercy_(feat._10-FEET)_Mori_Calliope.txt"
+    }
+  ]
+}
